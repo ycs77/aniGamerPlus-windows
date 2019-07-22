@@ -1,6 +1,6 @@
 # aniGamerPlus Windows版
 
-[aniGamerPlus](https://github.com/miyouzi/aniGamerPlus) Windows開箱即用版。
+[aniGamerPlus](https://github.com/miyouzi/aniGamerPlus) Windows開箱即用版，包含 FFmpeg 及調整配置。
 
 > 如果同一部影片要下載第二次時，卻沒有下載，將 `aniGamer.db` 檔刪除再重新下載即可。
 
